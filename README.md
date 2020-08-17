@@ -1,7 +1,7 @@
 # lc3
 [lc3](https://en.wikipedia.org/wiki/Little_Computer_3) virtual machine from [write your own virtual machine](https://justinmeiners.github.io/lc3-vm)
 
-**wip:** a bug is causing 2048 not working
+**wip:** 2048 is still now working because of some bug
 
 
 
