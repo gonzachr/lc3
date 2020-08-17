@@ -1,7 +1,7 @@
 # lc3
 [lc3](https://en.wikipedia.org/wiki/Little_Computer_3) virtual machine project
 
-**wip:** can't find the source of a bug which doesn't let 2048 run properly
+**wip:** a bug is causing 2048 not working
 
 code from [write your own virtual machine](https://justinmeiners.github.io/lc3-vm)
 
