@@ -12,3 +12,9 @@ build with:
 ```
 gcc lc3 -o lc3
 ```
+
+play 2048 with:
+
+```
+lc3 2048.obj
+```
