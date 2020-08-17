@@ -1,7 +1,7 @@
 # lc3
 lc3 virtual machine project
 
-**wip: can't find the source of a bug which doesn't let 2048 run properly**
+**still a wip: can't find the source of a bug which doesn't let 2048 run properly**
 
 code from [write your own virtual machine](https://justinmeiners.github.io/lc3-vm)
 
