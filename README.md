@@ -1,5 +1,5 @@
 # lc3
-lc3 virtual machine project
+[lc3](https://en.wikipedia.org/wiki/Little_Computer_3) virtual machine project
 
 **still a wip:** can't find the source of a bug which doesn't let 2048 run properly
 
